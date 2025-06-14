@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace version="1.0">
+   <FileRef location="group:Configurations">
+   </FileRef>
+   <FileRef location="group:Source/bmalloc/bmalloc.xcodeproj">
+   </FileRef>
+   <FileRef location="group:Source/WTF/WTF.xcodeproj">
+   </FileRef>
+   <FileRef location="group:Source/JavaScriptCore/JavaScriptCore.xcodeproj">
+   </FileRef>
+   <FileRef location="group:Source/WebCore/WebCore.xcodeproj">
+   </FileRef>
+   <FileRef location="group:Source/WebKit/WebKit.xcodeproj">
+   </FileRef>
+</Workspace>
